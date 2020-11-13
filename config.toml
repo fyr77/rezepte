@@ -6,7 +6,7 @@ theme = "dream"
 
 # copyright = ""
 
-# disqusShortname = ""
+disqusShortname = "jakobs-rezeptbuch"
 
 enableRobotsTXT = true
 
