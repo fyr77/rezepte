@@ -6,8 +6,6 @@ theme = "dream"
 
 # copyright = ""
 
-disqusShortname = "jakobs-rezeptbuch"
-
 enableRobotsTXT = true
 
 [params]
@@ -27,6 +25,8 @@ enableRobotsTXT = true
 
   # search
   enableSearch = true
+  
+  utterancesRepo = "fyr77/rezepte"
   
   darkLinkColor = "darkseagreen"
   backgroundDark = "black"
