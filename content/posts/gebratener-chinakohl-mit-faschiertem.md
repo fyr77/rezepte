@@ -26,7 +26,7 @@ Zubereitungszeit: 60 Minuten
 - 1 kleiner roter Chili
 - 4 Handvoll Korianderblätter
 - 1 Chinakohl
-- 800g Rindsfschiertes
+- 800g Rindsfaschiertes
 - Salz
 - schwarzer Pfeffer aus der Mühle
 

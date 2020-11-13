@@ -36,8 +36,8 @@ Kochzeit: 20 Minuten
 # Rezept
 
 1. In einer kleinen Schüssel braunen Zucker, Sojasauce, Sesamöl, Chiliflocken und Ingwer vermischen.
-2. Pflanzenöl in einer großen Pfanne auf mittlerer Hitze erhitzen. Knoblauch hinzufügen und unter ständigem umrühren ca. 1 Minute anbraten bis es duftet. Faschiertes hinzufügen und braun anbraten, dabei darauf achten Klumpen zu zertrennen. Überschüssiges Fett entfernen.
+2. Pflanzenöl in einer großen Pfanne auf mittlerer Hitze erhitzen. Knoblauch hinzufügen und unter ständigem Umrühren ca. 1 Minute anbraten bis es duftet. Faschiertes hinzufügen und braun anbraten, dabei darauf achten Klumpen zu zertrennen. Überschüssiges Fett entfernen.
 3. Sojasaucengemisch und Frühlingszwiebel einrühren bis es gut vermischt ist. Köcheln lassen bis durch, ca. 2 Minuten.
-4. Sofort servieren, falls gewünscht mit Frühlingszwiebel und Sesamkörnern bestreut. 
+4. Sofort servieren, falls gewünscht mit Frühlingszwiebel und Sesamkörnern bestreuen. 
 
 *Originales Rezept: https://damndelicious.net/2013/07/07/korean-beef-bowl/*
