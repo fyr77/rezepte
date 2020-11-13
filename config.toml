@@ -13,8 +13,8 @@ theme = "dream"
 enableRobotsTXT = true
 
 [params]
-  background = "#e7bdb3"
-  backgroundImage = "/img/bg.jpg"
+  background = "#FFEEDD"
+  # backgroundImage = "/img/bg.jpg"
   linkColor = "seagreen"
 
   author = "Jakob"
@@ -62,6 +62,6 @@ enableRobotsTXT = true
 
   # dark mode
   darkLinkColor = "darkseagreen"
-  backgroundImageDark = "/img/bg_dark.jpg"
+  backgroundDark = "black"
   darkNav = true 
   dark404 = true
