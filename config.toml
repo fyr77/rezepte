@@ -6,8 +6,6 @@ theme = "dream"
 
 # copyright = ""
 
-# googleAnalytics = ""
-
 # disqusShortname = ""
 
 enableRobotsTXT = true
@@ -19,48 +17,17 @@ enableRobotsTXT = true
 
   author = "Jakob"
   headerTitle = "Jakobs Rezeptbuch"
-  # description = ""
   avatar = "/img/avatar.png"
-  # motto = "Motto"
-  # categoriesLimitInHeader = 6
-  # headerBottomText = ""
-
-  # rss = true
-
-  # utterancesRepo = ""
-
-  # valine = true
-  # LEANCLOUD_APP_ID = ""
-  # LEANCLOUD_APP_KEY = ""
   
-  # email = ""
   twitter = "fyrwit77"
-  # facebook = ""
   instagram = "jakobnotjakob/"
-  # mastodon = ""
-  # linkedin = ""
   github = "fyr77"
-  # stackoverflow = ""
-  # codepen = ""
 
   siteStartYear = 2020
 
-  # favicon = "/favicon.ico"
-
-  # highlightjs = true
-  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-  # highlightjsExtraLanguages = ["ocaml"]
-  # highlightjsTheme = "gruvbox-light"
-  # highlightjsThemeDark = "gruvbox-dark"
-
   # search
   enableSearch = true
-
-  # options
-  # showSummaryCoverInPost = true
-  # hasTwitterEmbed = true
-
-  # dark mode
+  
   darkLinkColor = "darkseagreen"
   backgroundDark = "black"
   darkNav = true 
