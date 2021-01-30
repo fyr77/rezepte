@@ -17,7 +17,6 @@ Backzeit: 50 Minuten
 <!--more-->
 
 ![](/img/food/mus-griessschmarren.jpg)
-*Bild folgt noch.*
 
 # Zutaten für 4 Portionen
 
