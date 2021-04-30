@@ -3,7 +3,7 @@
 layout: recipe
 title: "Huhn portugiesische Art mit Orangen-Maissalat"
 image: huhn-portugiesische-art-mit-orangen-maissalat.jpg
-tags: Hauptspeise, braten
+tags: Hauptspeise
 
 ingredients:
 - 3 rote Chilischoten
